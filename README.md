@@ -1,2 +1,2 @@
-# CSE422_Labs
+# CSE422_Labs and project
 Artificial_intelligence
